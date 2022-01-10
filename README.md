@@ -1,2 +1,3 @@
 # test
-#pull denemesi 
+#pull denemesi
+vim ile push denemesi 
